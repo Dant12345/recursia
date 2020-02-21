@@ -20,4 +20,5 @@ function scanf($dir) {
 }
 scanf($localhost);
 
+/*I have trouble??!*/
 ?>
