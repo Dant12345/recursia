@@ -20,4 +20,5 @@ function scanf($dir) {
 }
 scanf($localhost);
 
+/*are you sure?*/
 ?>
